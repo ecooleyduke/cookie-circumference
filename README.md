@@ -11,6 +11,7 @@ Does oven temperature significantly affect the circumference of cookies?
 
 ## Hypotheses
 **Null Hypothesis (H₀)**: Oven temperature has no effect on cookie circumference.
+
 **Alternative Hypothesis (H₁)**: Oven temperature affects cookie circumference.
 
 ## Repository Structure
@@ -45,4 +46,4 @@ Install dependencies:
 ## Blog Post
 
 📖 Read the full blog post on Byline:  
-[Does baking temperature affect the average circumference of homemade cookies?](https://bylinedocs.com/published/f062e6d7-76fb-470a-ac57-90f85dbfcfe6)
+[Does baking temperature affect the average circumference of homemade cookies?](https://bylinedocs.com/published/0d37b701-067e-461f-819d-a310c2a23a74)
